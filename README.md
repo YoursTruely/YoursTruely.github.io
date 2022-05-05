@@ -1,2 +1,4 @@
 # YoursTruely.github.io
-where it all started
+A blog on the act of computing.
+
+
